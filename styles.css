@@ -1,0 +1,57 @@
+body{
+    margin-bottom: 3.9%;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+div{
+    padding: 20px;
+}
+
+/* ----- 
+   BODY 
+   ----- */
+.rev-share{
+    background-color: rgb(238, 216, 216);
+    position: relative;
+}
+.rev-share-bottom{
+    background-color: rgb(238, 216, 216);
+    position: relative;
+}
+.description{
+    font-size: 20px;
+}
+.cta{
+    color: black;
+    font-size: 25px;
+}
+.cta:hover{
+    color: lightcoral;
+}
+
+.logo{
+    height: 55px;
+}
+.row_l{
+    display: flex;
+}
+.column_l{
+    flex: 14.29%;
+    padding: 1px;
+}
+
+/* ----- 
+   Footer
+   ----- */
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
